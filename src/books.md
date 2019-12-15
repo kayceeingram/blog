@@ -12,6 +12,7 @@ layout: books.html
   <a class="latest-edition-article-link" href="https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661">Security Analysis by Benjamin Graham and David Dodd</a>
   <hr>
   <a class="latest-edition-article-link" href="https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661">Value Investing: From Graham to Buffett and Beyond by Bruce Greenwald</a>
+  <a class="latest-edition-article-link" href="https://www.amazon.com/Little-Book-Still-Beats-Market/dp/8126558032/ref=dp_ob_title_bk">The Little Book That Still Beats the Market by Joel Greenblatt</a>
 </div>
 
 <div class="more-articles-container">
