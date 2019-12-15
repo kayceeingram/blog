@@ -24,5 +24,7 @@ layout: books.html
     <a class="more-articles-article-link" href="https://www.thestreet.com/investing/getting-started-with-discounted-cash-flows-10385275">How to calculate DCF by TheStreet</a>
     <hr>
     <a class="more-articles-article-link" href="https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp">5 Must-Have Metrics by Investopedia</a>
+    <hr>
+    <a class="more-articles-article-link" href="https://www.investopedia.com/articles/01/071801.asp">Buffett: How he does it by Investopedia</a>
   </div>
 </div>
