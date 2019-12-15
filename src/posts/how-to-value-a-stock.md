@@ -1,7 +1,7 @@
 ---
 title: How to Value a Stock
 summary: A Step by Step Guide on Stock Valuation.
-date: 2019-12-15
+date: 2019-12-23
 author: Kaycee Ingram
 layout: post.html
 ---
