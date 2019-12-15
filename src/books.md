@@ -21,7 +21,8 @@ layout: books.html
     <hr>
     <a class="more-articles-article-link" href="https://www.thestreet.com/story/10362279/1/getting-started-fundamental-analysis.html">Fundamental Analysis by TheStreet</a>
     <hr>
+    <a class="more-articles-article-link" href="https://www.thestreet.com/investing/getting-started-with-discounted-cash-flows-10385275">How to calculate DCF by TheStreet</a>
+    <hr>
     <a class="more-articles-article-link" href="https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp">5 Must-Have Metrics by Investopedia</a>
   </div>
-
 </div>
